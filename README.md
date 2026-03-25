@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 I'm Sourav, a development engineer in india. 
 I develop and build whatever i can imagine.
 If an idea pops into my head, chances are I'll build it and ship it.
@@ -9,4 +8,4 @@ Fun facts:
 I don't like coffee or tea 
 Demon slayer is my favorite anime
 Hobbies: anime,building things
--->
+
